@@ -1,0 +1,12 @@
+{
+  "name": "issue",
+  "version": "1.0.0",
+  "description": "Module Issue",
+  "license": "Apache",
+  "main": "dist/issue.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "tsproject": "^0.8.10",
+    "typescript": "1.5.0-beta"
+  }
+}
